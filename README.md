@@ -1,0 +1,1 @@
+This project investigates a decentralized security architecture for Internet of Things (IoT) ecosystems. The core objective is to move away from centralized security monitoring toward a "Biological Immune System" model. The system utilizes a protocol termed Digital Apoptosis, where individual nodes execute self-termination based on peer-to-peer consensus signals.
